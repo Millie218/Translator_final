@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900938219262",
+    "project_id": "translatorapp-aac3c",
+    "storage_bucket": "translatorapp-aac3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900938219262:android:7ed5490c11056cc2c7afaf",
+        "android_client_info": {
+          "package_name": "com.example.translatorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOEEjBchPhimMQihXKX-ZXu5yW3UUiyOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
